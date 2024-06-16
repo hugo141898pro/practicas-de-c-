@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\bin\Debug\net8.0-windows\Ejercicio 12.exe
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\bin\Debug\net8.0-windows\Ejercicio 12.deps.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\bin\Debug\net8.0-windows\Ejercicio 12.runtimeconfig.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\bin\Debug\net8.0-windows\Ejercicio 12.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\bin\Debug\net8.0-windows\Ejercicio 12.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.AssemblyInfo.cs
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\refint\Ejercicio 12.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\Ejercicio 12.genruntimeconfig.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Ejercicio 12\obj\Debug\net8.0-windows\ref\Ejercicio 12.dll

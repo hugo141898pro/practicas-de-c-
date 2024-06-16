@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.AssemblyInfo.cs
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\bin\Debug\net8.0-windows\Cuadrado.exe
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\bin\Debug\net8.0-windows\Cuadrado.deps.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\bin\Debug\net8.0-windows\Cuadrado.runtimeconfig.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\bin\Debug\net8.0-windows\Cuadrado.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\bin\Debug\net8.0-windows\Cuadrado.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\refint\Cuadrado.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\Cuadrado.genruntimeconfig.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Cuadrado\obj\Debug\net8.0-windows\ref\Cuadrado.dll

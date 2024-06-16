@@ -1,0 +1,14 @@
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\bin\Debug\net8.0-windows\Triangulo.exe
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\bin\Debug\net8.0-windows\Triangulo.deps.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\bin\Debug\net8.0-windows\Triangulo.runtimeconfig.json
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\bin\Debug\net8.0-windows\Triangulo.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\bin\Debug\net8.0-windows\Triangulo.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.AssemblyInfoInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.AssemblyInfo.cs
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\refint\Triangulo.dll
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.pdb
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\Triangulo.genruntimeconfig.cache
+C:\Users\ariel\Documents\UTM\Cuarto cuatrimestre\parcial 1\Estructura de datos aplicadas\parcial 1\programa\Triangulo\obj\Debug\net8.0-windows\ref\Triangulo.dll
